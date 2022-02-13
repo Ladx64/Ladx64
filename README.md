@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ladx64
+- 👀 I’m interested in flutter and dart
+- 🌱 I’m currently learning Devops and CI/CD pielines too!
+- 💞️ I’m looking to collaborate on Anything New and upcoming
+- 📫 How to reach me https://www.linkedin.com/in/lalitaditya-addanki-87558414b/
